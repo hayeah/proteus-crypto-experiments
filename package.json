@@ -1,0 +1,15 @@
+{
+  "name": "treehole",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "libsodium-wrappers": "^0.5.2",
+    "wire-webapp-cbor": "=2.1.2",
+    "wire-webapp-cryptobox": "^5.1.1",
+    "wire-webapp-proteus": "^5.1.0"
+  },
+  "devDependencies": {
+    "typescript": "^2.4.2"
+  }
+}
